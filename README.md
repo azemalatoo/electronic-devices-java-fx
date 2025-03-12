@@ -31,6 +31,16 @@ The application allows users to:
 5.  **Run the Application:**
     * Navigate to the `DeviceManagementApp.java` file and run it.
 
+## Screenshots
+<img width="837" alt="Screen Shot 2025-03-13 at 01 02 41" src="https://github.com/user-attachments/assets/f6f9bcc0-679c-44a6-87ef-828b7ad76b76" />
+<img width="899" alt="Screen Shot 2025-03-13 at 01 03 38" src="https://github.com/user-attachments/assets/d25dd5f8-f7f5-4eaf-852e-e3d89185162d" />
+<img width="897" alt="Screen Shot 2025-03-13 at 01 03 48" src="https://github.com/user-attachments/assets/11bd61ef-75d9-4541-826a-e0c3f8af346e" />
+<img width="900" alt="Screen Shot 2025-03-13 at 01 04 03" src="https://github.com/user-attachments/assets/cc2e67bd-b644-4735-b7e7-85cb7e96b5d6" />
+<img width="901" alt="Screen Shot 2025-03-13 at 01 04 12" src="https://github.com/user-attachments/assets/f34bf101-b4f0-42c9-8578-9964bf142055" />
+
+
+
+
 ## Sample Inputs for Each Type of Device
 
 **Smartphone:**
